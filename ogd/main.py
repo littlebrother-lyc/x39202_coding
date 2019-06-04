@@ -1,1 +1,0 @@
-print('zsy is sb')
